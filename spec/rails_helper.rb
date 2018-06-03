@@ -56,8 +56,8 @@ RSpec.configure do |config|
   # arbitrary gems may also be filtered via:
   # config.filter_gems_from_backtrace("gem name")
 
-  config.failure_color = :red
-  config.tty = true
+  # config.failure_color = :red
+  # config.tty = true
   config.color = true
 
 end
