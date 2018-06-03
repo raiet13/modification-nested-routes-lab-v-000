@@ -56,7 +56,7 @@ RSpec.configure do |config|
   # arbitrary gems may also be filtered via:
   # config.filter_gems_from_backtrace("gem name")
 
-  # 
+  # https://relishapp.com/rspec/rspec-core/v/2-14/docs/formatters/configurable-colors
   config.color = true
 
 end
